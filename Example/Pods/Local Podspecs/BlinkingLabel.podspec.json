@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of BlinkingLabel.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel",
+  "homepage": "https://github.com/firozkhursheed/BlinkingLabel",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "Firoz": "firoz@keepworks.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel.git",
+    "git": "https://github.com/firozkhursheed/BlinkingLabel.git",
     "tag": "0.1.0"
   },
   "platforms": {
